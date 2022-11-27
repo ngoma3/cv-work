@@ -1,0 +1,114 @@
+.frame1{
+  width: 422px;
+  height: 553px;
+  margin: auto;
+  background-color: white;
+
+}
+.pic{
+  width: 121px;
+  height: 167px;
+  position: relative;
+  top: 22px;
+  z-index: 1;
+}
+.upyellow{
+  width: 49px;
+  height: 137px;
+  background-color: #FFC123;
+  z-index: -1;
+
+}
+.uplight{
+  background-color: #D9D9D9;
+  width:422px;
+  height: 137px;
+
+}
+.hh1{
+  font-size: 0.8rem;
+  margin-bottom: 0;
+
+}
+.hh2{
+  font-size: 0.65rem;
+}
+body{
+  background-color: #222222;
+}
+.personalStatement{
+  position: relative;
+  left: 175px;
+  top: 0;
+  width: 222px;
+  height: 103px;
+  font-size: 0.6rem;
+  z-index: 1;
+}
+.left1{
+  font-size: 0.6rem;
+  position: relative;
+  left: 47px;
+  top: 15px;
+  width: 218px;
+  
+
+}
+.right1{
+  font-size: 0.6rem;
+  position: relative;
+  left: 24px;
+  width: 129px;
+
+}
+.social{
+  margin-top: 29px;
+}
+.row{
+  content: "";
+  display: table;
+  clear: both;
+
+}
+.column{
+  float: left;
+  width: 30%;
+  padding:  0;
+}
+.column2{
+  float: left;
+  width: 70%;
+  padding:  0;
+}
+.awards{
+  margin-top: 0;
+}
+.left{
+  margin-bottom: 0;
+}
+.ht1{
+  margin: 0;
+  color: #F4B922;
+}
+.pro{
+  font-weight: bold;
+}
+.footer{
+  margin-bottom: 0;
+  background-color: #FFC123;
+  width: 246px;
+  height: 17px;
+}
+hr{
+  /* border:1px solid #FFC123; */
+  border: none;
+  height: 1px;
+  background: #FFC123;
+
+}
+.boddy{
+  display: flex;
+}
+.name{
+  padding-top: 27px;
+}
